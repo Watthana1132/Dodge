@@ -21,4 +21,5 @@ public class DodgeSwordMod implements ModInitializer {
 
 		LOGGER.info("Hello Fabric world!");
 	}
+	//
 }
